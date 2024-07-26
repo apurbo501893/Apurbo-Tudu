@@ -1,0 +1,98 @@
+export const projectArray = [
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+  {
+    title: "Modern E-Commerce Website",
+    description: "some description will go here",
+    listItem: ["Reactjs", "Tailwindcss", "getform,io"],
+    link: "https://www.youtube.com/",
+  },
+];
